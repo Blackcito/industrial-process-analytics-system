@@ -235,18 +235,18 @@ Logs are written to `./logs/System_process.log` with:
 - Color-coded console output
 - INFO level for file, WARNING+ for console
 
-## 🤝 Contributing
+##  Contributing
 
 This is a portfolio project demonstrating production system architecture. Feel free to:
 - Fork and adapt for your own use cases
 - Submit issues for questions or discussions
 - Suggest improvements via pull requests
 
-## 📄 License
+##  License
 
 MIT License - See LICENSE file for details
 
-## 🎓 Learning Highlights
+##  Learning Highlights
 
 This project demonstrates:
 - **Clean architecture** with separation of concerns
@@ -255,7 +255,7 @@ This project demonstrates:
 - **Database optimization** with CTEs and batch operations
 - **State management** for fault tolerance
 
-## 📧 Contact
+##  Contact
 
 For questions or collaborations, reach out via [jalderetelopez@gmail.com]
 
