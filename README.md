@@ -257,7 +257,7 @@ This project demonstrates:
 
 ## 📧 Contact
 
-For questions or collaborations, reach out via [your-contact-method]
+For questions or collaborations, reach out via [jalderetelopez@gmail.com]
 
 ---
 
